@@ -1,0 +1,8 @@
+C:\@REUBEN\CODE_TESTS\Finr\AlphaNumericWebApp\PhoneNumberServices\bin\Debug\netcoreapp2.1\PhoneNumberServices.deps.json
+C:\@REUBEN\CODE_TESTS\Finr\AlphaNumericWebApp\PhoneNumberServices\bin\Debug\netcoreapp2.1\PhoneNumberServices.dll
+C:\@REUBEN\CODE_TESTS\Finr\AlphaNumericWebApp\PhoneNumberServices\bin\Debug\netcoreapp2.1\PhoneNumberServices.pdb
+C:\@REUBEN\CODE_TESTS\Finr\AlphaNumericWebApp\PhoneNumberServices\obj\Debug\netcoreapp2.1\PhoneNumberServices.csproj.CoreCompileInputs.cache
+C:\@REUBEN\CODE_TESTS\Finr\AlphaNumericWebApp\PhoneNumberServices\obj\Debug\netcoreapp2.1\PhoneNumberServices.AssemblyInfoInputs.cache
+C:\@REUBEN\CODE_TESTS\Finr\AlphaNumericWebApp\PhoneNumberServices\obj\Debug\netcoreapp2.1\PhoneNumberServices.AssemblyInfo.cs
+C:\@REUBEN\CODE_TESTS\Finr\AlphaNumericWebApp\PhoneNumberServices\obj\Debug\netcoreapp2.1\PhoneNumberServices.dll
+C:\@REUBEN\CODE_TESTS\Finr\AlphaNumericWebApp\PhoneNumberServices\obj\Debug\netcoreapp2.1\PhoneNumberServices.pdb

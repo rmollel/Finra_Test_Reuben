@@ -1,0 +1,69 @@
+﻿@using Newtonsoft.Json;
+@model PhoneNumberServices.Models.GenerateAlphaNumResponseDto
+
+
+@{
+    ViewData["Title"] = "OUTPUT PAGE";
+    var originalPhone = Model.OriginalPhoneNumber;
+
+}
+
+<h2>List of possible alpha-numeric combinations for phone number:  <span id="phoneNumSpan">@Model.OriginalPhoneNumber</span></h2>
+
+<div class="row">
+    <p><strong>Assumptions:</strong> The application takes only a valid 10 digits USA phone number. For example 202 297 8976. The output is a list of possible alpha-number combination based on standard telephone keypad. The list also includeds the original number that was entered as input. </p>
+    <p>The total count of possible combinations also includes the original phone number that was entered. </p>
+</div>
+
+<div class="row">
+    <p>Total number of combinations: <span id="countSpan"><strong>@Model.TotalNumberOfCombinations.ToString()</strong></span></p>
+</div>
+
+
+
+<div class="row">
+    <div class="col-md-12" ng-app="app">
+
+        <div ng-show="loading">
+            <div>Loading data...</div>
+            <div><img src="~/images/ajax-loader.gif" /></div>
+        </div>
+
+        <div ng-controller="MainCtrl">
+            <div ui-grid="gridOptions" ui-grid-pagination class="grid"></div>
+        </div>
+
+
+
+    </div>
+</div>
+
+
+
+@section Scripts {
+
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.7.0/angular.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.7.0/angular-touch.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.7.0/angular-animate.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.7.0/angular-aria.js"></script>
+
+    @*<script src="https://ui-grid.info/docs/grunt-scripts/csv.js"></script>
+        <script src="https://ui-grid.info/docs/grunt-scripts/pdfmake.js"></script>
+        <script src="https://ui-grid.info/docs/grunt-scripts/vfs_fonts.js"></script>
+        <script src="https://ui-grid.info/docs/grunt-scripts/lodash.min.js"></script>
+        <script src="https://ui-grid.info/docs/grunt-scripts/jszip.min.js"></script>
+        <script src="https://ui-grid.info/docs/grunt-scripts/excel-builder.dist.js"></script>*@
+
+    @*<script src="https://ui-grid.info/release/ui-grid.js"></script>*@
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/angular-ui-grid/4.8.1/i18n/ui-grid.core.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/angular-ui-grid/4.8.1/i18n/ui-grid.pagination.min.js"></script>
+
+    <script>
+        @*var phoneNumberList = @Html.Raw(JsonConvert.SerializeObject(Model.AlphaNumbers));*@
+        var originalPhoneNumberInputVal = "@Model.OriginalPhoneNumber";
+    </script>
+
+    <script src="~/js/alpha-num-listing.js" asp-append-version="true"></script>
+}
+

@@ -1,0 +1,17 @@
+C:\@REUBEN\CODE_TESTS\Finr\AlphaNumericWebApp\PhoneNumberServicesTest\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\@REUBEN\CODE_TESTS\Finr\AlphaNumericWebApp\PhoneNumberServicesTest\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\@REUBEN\CODE_TESTS\Finr\AlphaNumericWebApp\PhoneNumberServicesTest\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\@REUBEN\CODE_TESTS\Finr\AlphaNumericWebApp\PhoneNumberServicesTest\bin\Debug\netcoreapp2.1\PhoneNumberServicesTest.deps.json
+C:\@REUBEN\CODE_TESTS\Finr\AlphaNumericWebApp\PhoneNumberServicesTest\bin\Debug\netcoreapp2.1\PhoneNumberServicesTest.runtimeconfig.json
+C:\@REUBEN\CODE_TESTS\Finr\AlphaNumericWebApp\PhoneNumberServicesTest\bin\Debug\netcoreapp2.1\PhoneNumberServicesTest.runtimeconfig.dev.json
+C:\@REUBEN\CODE_TESTS\Finr\AlphaNumericWebApp\PhoneNumberServicesTest\bin\Debug\netcoreapp2.1\PhoneNumberServicesTest.dll
+C:\@REUBEN\CODE_TESTS\Finr\AlphaNumericWebApp\PhoneNumberServicesTest\bin\Debug\netcoreapp2.1\PhoneNumberServicesTest.pdb
+C:\@REUBEN\CODE_TESTS\Finr\AlphaNumericWebApp\PhoneNumberServicesTest\bin\Debug\netcoreapp2.1\PhoneNumberServices.dll
+C:\@REUBEN\CODE_TESTS\Finr\AlphaNumericWebApp\PhoneNumberServicesTest\bin\Debug\netcoreapp2.1\PhoneNumberServices.pdb
+C:\@REUBEN\CODE_TESTS\Finr\AlphaNumericWebApp\PhoneNumberServicesTest\obj\Debug\netcoreapp2.1\PhoneNumberServicesTest.csprojAssemblyReference.cache
+C:\@REUBEN\CODE_TESTS\Finr\AlphaNumericWebApp\PhoneNumberServicesTest\obj\Debug\netcoreapp2.1\PhoneNumberServicesTest.csproj.CoreCompileInputs.cache
+C:\@REUBEN\CODE_TESTS\Finr\AlphaNumericWebApp\PhoneNumberServicesTest\obj\Debug\netcoreapp2.1\PhoneNumberServicesTest.AssemblyInfoInputs.cache
+C:\@REUBEN\CODE_TESTS\Finr\AlphaNumericWebApp\PhoneNumberServicesTest\obj\Debug\netcoreapp2.1\PhoneNumberServicesTest.AssemblyInfo.cs
+C:\@REUBEN\CODE_TESTS\Finr\AlphaNumericWebApp\PhoneNumberServicesTest\obj\Debug\netcoreapp2.1\PhoneNumberServicesTest.csproj.CopyComplete
+C:\@REUBEN\CODE_TESTS\Finr\AlphaNumericWebApp\PhoneNumberServicesTest\obj\Debug\netcoreapp2.1\PhoneNumberServicesTest.dll
+C:\@REUBEN\CODE_TESTS\Finr\AlphaNumericWebApp\PhoneNumberServicesTest\obj\Debug\netcoreapp2.1\PhoneNumberServicesTest.pdb
